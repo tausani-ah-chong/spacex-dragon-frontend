@@ -1,0 +1,13 @@
+.container {
+  padding: 0.5rem;
+}
+
+.title {
+  padding: 0;
+  line-height: 1.15;
+  font-size: 1.5rem;
+}
+
+.header {
+  text-align: center;
+}

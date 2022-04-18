@@ -1,0 +1,20 @@
+.container {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+
+.textContainer {
+  padding-left: 0.5rem;
+}
+
+.text {
+  color: #9699C0;
+  font-size: 0.8rem;
+}
+
+.statusText {
+  color: #3D3F5C;
+  font-size: 0.8rem;
+}
